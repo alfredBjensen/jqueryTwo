@@ -9,6 +9,14 @@ body{
   height:100%;
 }
 
+main{
+  display:block;
+  background-color:#EFF0F1;
+  width:95%;
+  padding:1%;
+  margin:auto;
+}
+
 .main-header{
   text-align:center;
   padding:.3em;
@@ -26,6 +34,7 @@ body{
 .basic-line{
   height:1px;
   background-color:black;
+  margin:auto;
 }
 
 .hidden-line{
