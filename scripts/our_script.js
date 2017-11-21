@@ -6,7 +6,7 @@ $( document ).ready(function(){
 
 
 function changeMain(){
-  $("main").show("drop", {direction: "down"}, 1500);
+  $("main").show("drop", {direction: "right"}, 2000);
 }
 
 function drawHeaderLine(){
